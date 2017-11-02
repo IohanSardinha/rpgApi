@@ -25,7 +25,7 @@
     "url": "https://github.com/IohanSardinha/rpgApi/issues"
   },
   "engines": {
-    "node": "3.10.10"
+    "node": "6.11.1"
   },
   "homepage": "https://github.com/IohanSardinha/rpgApi#readme"
 }
