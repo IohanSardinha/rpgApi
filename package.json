@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/IohanSardinha/rpgApi/issues"
   },
+  "engines": {
+    "node": "3.10.10"
+  },
   "homepage": "https://github.com/IohanSardinha/rpgApi#readme"
 }
