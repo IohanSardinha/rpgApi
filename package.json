@@ -1,0 +1,28 @@
+{
+  "name": "rpg-api",
+  "version": "1.0.0",
+  "description": "A rpg api",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IohanSardinha/rpgApi.git"
+  },
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~2.5.0",
+    "express": "^4.12.x",
+    "mongoose": "^4.12.5",
+    "socket.io": "~2.0.4"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IohanSardinha/rpgApi/issues"
+  },
+  "homepage": "https://github.com/IohanSardinha/rpgApi#readme"
+}
